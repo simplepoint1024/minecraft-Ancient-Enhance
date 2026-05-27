@@ -1,0 +1,11 @@
+.gradle/
+.gradle-bin/
+build/
+out/
+run/
+run-data/
+mcmodsrepo/
+*.log
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar

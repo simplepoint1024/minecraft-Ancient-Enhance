@@ -1,0 +1,11 @@
+{
+    "type": "apotheosis:attribute",
+    "attribute": "attributeslib:creative_flight",
+    "operation": "ADDITION",
+    "values": {
+        "ancient": 1
+    },
+    "types": [
+        "chestplate"
+    ]
+}
