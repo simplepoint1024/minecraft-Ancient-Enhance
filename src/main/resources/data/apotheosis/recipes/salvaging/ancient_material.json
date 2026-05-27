@@ -12,8 +12,8 @@
     },
     "outputs": [
         {
-            "min_count": 1,
-            "max_count": 4,
+            "min_count": 6,
+            "max_count": 6,
             "stack": {
                 "item": "apotheosis:ancient_material"
             }

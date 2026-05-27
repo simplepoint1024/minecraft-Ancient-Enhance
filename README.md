@@ -27,7 +27,7 @@
 - `ascendant`
   - 远古胸甲专属
   - 提供 `attributeslib:creative_flight`
-  - 并已调整 `winged`，避免远古创造飞行与鞘翅飞行词缀共存
+  - 远古胸甲也可正常刷出 `winged` 的鞘翅飞行词缀
 - `elytra_boost`
   - 远古剑专属
   - 鞘翅滑翔时右键可直接触发烟花推进
@@ -91,7 +91,7 @@ This is a **Minecraft 1.20.1 / Forge 47.4.20** companion patch mod for Apotheosi
 - `ascendant`
   - Ancient chestplate only
   - Grants `attributeslib:creative_flight`
-  - `winged` is also adjusted so Ancient creative flight does not coexist with elytra-flight affixes
+  - Ancient chestplates can also roll the `winged` elytra-flight affix normally
 - `elytra_boost`
   - Ancient sword only
   - Right click while gliding with elytra to trigger built-in firework boosting

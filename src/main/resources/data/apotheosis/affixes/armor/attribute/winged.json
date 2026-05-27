@@ -3,7 +3,8 @@
     "attribute": "attributeslib:elytra_flight",
     "operation": "ADDITION",
     "values": {
-        "mythic": 1
+        "mythic": 1,
+        "ancient": 1
     },
     "types": [
         "chestplate"
