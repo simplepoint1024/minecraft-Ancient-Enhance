@@ -1,0 +1,11 @@
+{
+    "_comment": "Elytra Boost - right click while gliding to launch a built-in firework rocket.",
+    "type": "modpackancientfix:elytra_boost",
+    "values": {
+        "ancient": {
+            "min": 1,
+            "steps": 3,
+            "step": 1
+        }
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "_comment": "Auto Smelt - block drops that can be smelted will be converted to their furnace result.",
+    "type": "modpackancientfix:auto_smelt",
+    "min_rarity": "ancient"
+}

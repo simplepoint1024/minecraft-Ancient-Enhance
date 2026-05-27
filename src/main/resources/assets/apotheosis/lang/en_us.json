@@ -1,4 +1,10 @@
 {
     "affix.apotheosis:armor/attribute/ascendant": "Ascendant",
-    "affix.apotheosis:armor/attribute/ascendant.suffix": "of the Firmament"
+    "affix.apotheosis:armor/attribute/ascendant.suffix": "of the Firmament",
+    "affix.apotheosis:breaker/special/auto_smelt": "Smoldering",
+    "affix.apotheosis:breaker/special/auto_smelt.suffix": "of the Furnace",
+    "affix.apotheosis:breaker/special/auto_smelt.desc": "Drops from mined blocks are automatically converted into their furnace-smelted result when possible",
+    "affix.apotheosis:sword/special/elytra_boost": "Skyrocket",
+    "affix.apotheosis:sword/special/elytra_boost.suffix": "of the Jetstream",
+    "affix.apotheosis:sword/special/elytra_boost.desc": "Right click while gliding to trigger a boost equal to a flight %s firework rocket"
 }

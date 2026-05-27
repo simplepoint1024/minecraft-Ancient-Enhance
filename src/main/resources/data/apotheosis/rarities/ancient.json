@@ -35,13 +35,49 @@
         },
         {
             "type": "ability",
-            "chance": 0.75,
+            "chance": 1.0,
             "backup": {
                 "type": "potion",
-                "chance": 0.75,
+                "chance": 1.0,
                 "backup": {
                     "type": "stat",
-                    "chance": 0.75
+                    "chance": 1.0
+                }
+            }
+        },
+        {
+            "type": "ability",
+            "chance": 1.0,
+            "backup": {
+                "type": "potion",
+                "chance": 0.9,
+                "backup": {
+                    "type": "stat",
+                    "chance": 0.9
+                }
+            }
+        },
+        {
+            "type": "ability",
+            "chance": 0.9,
+            "backup": {
+                "type": "potion",
+                "chance": 0.8,
+                "backup": {
+                    "type": "stat",
+                    "chance": 0.8
+                }
+            }
+        },
+        {
+            "type": "ability",
+            "chance": 0.8,
+            "backup": {
+                "type": "potion",
+                "chance": 0.7,
+                "backup": {
+                    "type": "stat",
+                    "chance": 0.7
                 }
             }
         },
@@ -74,8 +110,16 @@
             "chance": 0.4
         },
         {
+            "type": "socket",
+            "chance": 0.3
+        },
+        {
+            "type": "socket",
+            "chance": 0.2
+        },
+        {
             "type": "durability",
-            "chance": 0.75
+            "chance": 1.0
         }
     ]
 }
